@@ -13,3 +13,4 @@ a simple Movie ticket smart contract. Make assumptions on attributes for the var
 ·         At the end of the purchase, a ticket and receipt  is printed and the purchase is recorded on the blockchain
 
 ·         The buyer can go and exchange the water for soda at the cafeteria. Window 1 must generate a random number. If that number is even, the buyer must be able to get the water exchanged for soda at the cafeteria. The cafeteria has only 200 sodas, so only the first 200 requesters can exchange. 
+this is just smart contract, with web3 Apis and front end can build an application which runs on top of ethereum blockchin.
